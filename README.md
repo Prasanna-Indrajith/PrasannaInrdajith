@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrasannaInrdajith
+- 👋 Hi, I’m @PrasannaIndrajith
 - 👀 I’m interested in web development, create mobile applications and learning lot of languages featured to future ICT.
 - 🌱 I’m currently learning web devolopment (HTML, CSS, js).
 - 💞️ I’m looking to collaborate on
